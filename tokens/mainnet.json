@@ -47,6 +47,15 @@
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/akro.jpg"
 	},
+        {
+                "address": "0xaaca86b876ca011844b5798eca7a67591a9743c8",
+                "chainId": 1,
+                "name": "BIOS",
+                "symbol": "BIOS",
+                "decimals": 18,
+                "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/BIOS.jpg"
+        },              
+
 	{
 		"address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
 		"chainId": 1,
